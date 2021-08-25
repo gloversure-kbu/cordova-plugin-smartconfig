@@ -47,6 +47,7 @@
         esptouchDelegate.command=command;
         esptouchDelegate.commandDelegate=self.commandDelegate;
         [self._esptouchTask setEsptouchDelegate:esptouchDelegate];
+        [self._esptouchTask setPackageBroadcast:true];
         [self._condition unlock];
         NSArray * esptouchResultArray = [self._esptouchTask executeForResults:taskCount];
         
