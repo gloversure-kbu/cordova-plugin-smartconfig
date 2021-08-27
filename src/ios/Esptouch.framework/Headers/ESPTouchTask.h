@@ -7,11 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Esptouch.h"
 #import "ESPTouchResult.h"
 #import "ESPTouchDelegate.h"
 #import "ESPAES.h"
 
-#define ESPTOUCH_VERSION    @"SDK-v1.1.0"
+#define ESPTOUCH_VERSION    @"SDK-v1.0.1"
 
 #define DEBUG_ON   YES
 

@@ -4,78 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AFCompatibilityMacros.h</key>
-		<data>
-		0TxkMNOmRA+CvV+dAatXnikfRX4=
-		</data>
-		<key>Headers/AFHTTPSessionManager.h</key>
-		<data>
-		p3y9y+DZ33iDXLM2/mkVpkPccC4=
-		</data>
-		<key>Headers/AFNetworkReachabilityManager.h</key>
-		<data>
-		ucw7ZEs9qbD4ZHXh6GrEj2bffRw=
-		</data>
-		<key>Headers/AFNetworking.h</key>
-		<data>
-		AFv03ZXPPEIZ/1OP4o2VKtiehNw=
-		</data>
-		<key>Headers/AFSecurityPolicy.h</key>
-		<data>
-		sbAejRIs5q8A3eCqlJdxh9ldd0s=
-		</data>
-		<key>Headers/AFURLRequestSerialization.h</key>
-		<data>
-		yUuOFpvN5gtri8UhbNkMUi5k+Jw=
-		</data>
-		<key>Headers/AFURLResponseSerialization.h</key>
-		<data>
-		596fkDcpD1iHy1h71Lajc0oXO+0=
-		</data>
-		<key>Headers/AFURLSessionManager.h</key>
-		<data>
-		AWpvzXBfG2bU/PB+rKnEjomP0TI=
-		</data>
-		<key>Headers/CocoaAsyncSocket.h</key>
-		<data>
-		t2z1wBueMTDuTOHOFaydRit7MuE=
-		</data>
-		<key>Headers/DDASLLogger.h</key>
-		<data>
-		hcAlVtYGT69zrJ+4VQCZHFR+fGM=
-		</data>
-		<key>Headers/DDAbstractDatabaseLogger.h</key>
-		<data>
-		RoogMsnVeQBt0E53zQ29Cv0TptY=
-		</data>
-		<key>Headers/DDContextFilterLogFormatter.h</key>
-		<data>
-		4dSQB1x6nHCLcXgqL5d1ItYHV0s=
-		</data>
-		<key>Headers/DDDispatchQueueLogFormatter.h</key>
-		<data>
-		tRJGrKOKySKA7M8llQfHi2XRVkY=
-		</data>
-		<key>Headers/DDFileLogger.h</key>
-		<data>
-		zyBTfGDSliu9UbtVlJXgRNt/xAQ=
-		</data>
-		<key>Headers/DDLog+LOGV.h</key>
-		<data>
-		kGhhg4bZkUOGcxas9BzT0qJ09ko=
-		</data>
-		<key>Headers/DDLog.h</key>
-		<data>
-		jvxqtxybdNgHsnSAbx6vjHBjqoc=
-		</data>
-		<key>Headers/DDMultiFormatter.h</key>
-		<data>
-		ERsxqWNyJZES3H13f0lVpgiJvQQ=
-		</data>
-		<key>Headers/DDTTYLogger.h</key>
-		<data>
-		lSx2ERQ/GS0YmOO1hkqkhzhtZvw=
-		</data>
 		<key>Headers/ESPAES.h</key>
 		<data>
 		Yi671yEn4n6qHLlUoQewpLx0ghg=
@@ -110,7 +38,7 @@
 		</data>
 		<key>Headers/ESPTouchTask.h</key>
 		<data>
-		BfRViOURbvL5KJdl6tHKihf5rT8=
+		4SEFpQfwZ5/M94CXu4hEDF88pnk=
 		</data>
 		<key>Headers/ESPTouchTaskParameter.h</key>
 		<data>
@@ -148,14 +76,6 @@
 		<data>
 		53yUHG+kS7296PuOIISYoKqyK3o=
 		</data>
-		<key>Headers/GCDAsyncSocket.h</key>
-		<data>
-		Cjd5zIJ8T3hT/w6HXIH4JW2iVv8=
-		</data>
-		<key>Headers/GCDAsyncUdpSocket.h</key>
-		<data>
-		69AzJscT3kPC7sdHtjJbN6PwiRE=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		C0hN2aPdlidBSFiG8XppwZ7bzSA=
@@ -167,132 +87,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AFCompatibilityMacros.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bJEdNio+teRU70nG82YIjarVBWMNnruZytaPpclw+ZM=
-			</data>
-		</dict>
-		<key>Headers/AFHTTPSessionManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BqwnAj446Qw/r7PcV4ibwL2mt4PrlFn7q7x+P1EukMA=
-			</data>
-		</dict>
-		<key>Headers/AFNetworkReachabilityManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Auq4EpEWLRxuWwpS81xd1K4dDfhaetQkoWz7EiJn4no=
-			</data>
-		</dict>
-		<key>Headers/AFNetworking.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			erARV6sJ5/vEXwyz7+OvQBShYLP7G9kdZ2c9/Uo2+DA=
-			</data>
-		</dict>
-		<key>Headers/AFSecurityPolicy.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CtR6U4APL0biRZsiCZ6QZ+K1XWqVal9uWDeiAdS3sso=
-			</data>
-		</dict>
-		<key>Headers/AFURLRequestSerialization.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			082CkQ2NOpKoySPbvGCDhUdkPiWyyxt2XFjbpO8hbYI=
-			</data>
-		</dict>
-		<key>Headers/AFURLResponseSerialization.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			v+HFEaDHsXlge2ctPSSvCQdR5wm4Vq5CSema3vvwNmk=
-			</data>
-		</dict>
-		<key>Headers/AFURLSessionManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AuiKRtiDPM0r9ltABAgLFWsC9eSn37HMxFjY3uMo44A=
-			</data>
-		</dict>
-		<key>Headers/CocoaAsyncSocket.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wIm2rpQRcgd6flFjaImvn5rnTlglpWil0z7WwcXlcgo=
-			</data>
-		</dict>
-		<key>Headers/DDASLLogger.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4zr2OiRyYukMZE+1CnikRHcWPIeClbLMk+zxLIk6YJ4=
-			</data>
-		</dict>
-		<key>Headers/DDAbstractDatabaseLogger.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5De01dgBLQWSnWVdImIvLEoJwpfZZR1mwmk9uygz7oI=
-			</data>
-		</dict>
-		<key>Headers/DDContextFilterLogFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bFTnRE19GRBmSUQ/eb3Asb59+f+4JyX/V950sWb9jP8=
-			</data>
-		</dict>
-		<key>Headers/DDDispatchQueueLogFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6KO4eOSx6ogYdPQuf6sGOfDJaq+T7IqhGgh0zHnrO0Y=
-			</data>
-		</dict>
-		<key>Headers/DDFileLogger.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DIPxLzAAGIx02hA/eLae4ZPnZJfImSneeSUOQGZhNh4=
-			</data>
-		</dict>
-		<key>Headers/DDLog+LOGV.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bcUvg/Wos2C0wZ3gjxKXu7IF3IfV/QqHRAp2E9fjfYk=
-			</data>
-		</dict>
-		<key>Headers/DDLog.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bKMqUduxvVWJmshndRsQ6GTiwFVK4w1Zn9dxsofl1As=
-			</data>
-		</dict>
-		<key>Headers/DDMultiFormatter.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QWIegJAn+7ECXEAdHYK4VAkSYb4rB0B2ruJU4nnMIiE=
-			</data>
-		</dict>
-		<key>Headers/DDTTYLogger.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nWCjZssyFg5aZaAa7yp5OACiROHGMOwPdiizdhafWfo=
-			</data>
-		</dict>
 		<key>Headers/ESPAES.h</key>
 		<dict>
 			<key>hash2</key>
@@ -353,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g/CqnyUN32OJCac5WSWdJlleHN85VxRPG1Yenoyh2hY=
+			2mJIz5X84NaeNyqXd59W4KrkM2ndrUJmBoForQCWV4I=
 			</data>
 		</dict>
 		<key>Headers/ESPTouchTaskParameter.h</key>
@@ -417,20 +211,6 @@
 			<key>hash2</key>
 			<data>
 			635tsXlFSZctoaKkUgGZ/gGdn7RuzIxYLK7rww1S0y8=
-			</data>
-		</dict>
-		<key>Headers/GCDAsyncSocket.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tmRXc6PIS5w6+4rv1ehHlvHmGF8JLCdEcYZNE66kRwA=
-			</data>
-		</dict>
-		<key>Headers/GCDAsyncUdpSocket.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bNc5cDSqOuorVfC4GYwE25eJWJJTSubUJtz9zMdVV4k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
